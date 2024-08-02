@@ -5,6 +5,6 @@
 - ⚡ Curiosidade:: ...
 
 <!---
-Wothon-Mateus/Wothon-Mateus is a  special ✨ repository because its README.md` (this file) apears on your GitHub profile
+Wothon-Mateus/Wothon-Mateus is a  special  repository because its README.md` (this file) apears on your GitHub profile
 You can click the Preview link to take a look at your changes.
 --->
