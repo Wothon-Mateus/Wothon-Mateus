@@ -6,6 +6,6 @@
 
 <!---
 Wothon Mateus/Wothon Mateus de Araújo isa special repoiitory because it README.md (th isfile) apears on your GitHub profile.
-You can clicking the preview link totake  
+You can clicking the preview  link totake  
 a look at your chang
 --->
