@@ -5,7 +5,7 @@
 - ⚡ Curiosidade:: ...
 
 <!---
-Wothon Mateus/Wothon Mateus de Araújo isa  special.repoiitory because it README.md (th isfile)apears on your GitHub  profile.
+Wothon Mateus/Wothon Mateus de Araújo isa  special.repoiitory because it  README.md (th isfile)apears on your GitHub  profile.
 You can clicking the  preview link   
 a  look  at your chang 
 --->
